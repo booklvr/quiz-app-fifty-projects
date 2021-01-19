@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import QuizApp from './components/QuizApp'
 
 const App = () => {
-  return <placeholder />
+  return <QuizApp />
 }
 
 export default App
